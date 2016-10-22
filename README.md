@@ -1,4 +1,4 @@
-Project #1 at NYCDSA's 12-week bootcamp (July 2016 - September 2016)
+# Explore Relationship Between Baby Names and Narcissim
 
 Project writeup: 
 http://blog.nycdatascience.com/student-works/r-visualization/link-baby-names-narcissism%EF%BC%9F/
