@@ -1,3 +1,4 @@
-# Project #1 at NYC Data Science Academy 12-week bootcamp from Jul.2016 to Sep.2016
+Project #1 at NYCDSA's 12-week bootcamp (July 2016 - September 2016)
 
-# To learn more about the project, read my project writeup here: http://blog.nycdatascience.com/student-works/r-visualization/link-baby-names-narcissism%EF%BC%9F/
+Project writeup: 
+http://blog.nycdatascience.com/student-works/r-visualization/link-baby-names-narcissism%EF%BC%9F/
